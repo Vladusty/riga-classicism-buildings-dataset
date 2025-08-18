@@ -8,7 +8,7 @@ The dataset contains photographs and metadata of buildings representing Riga’s
 
 ## License
 This project is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE.md) file for details.
 
 ## Author
 Project created by **Vladislavs Babaņins**.  
