@@ -1,5 +1,5 @@
-# riga-classicism-buildings-dataset
-Geospatial dataset of classical architecture in Riga, Latvia.
+# riga-neoclassical-buildings-dataset
+A geospatial dataset of neoclassical buildings in Riga, Latvia (late 18th – early 19th century).
 The dataset contains photographs and metadata of buildings representing Riga’s classicism style, intended for use in digital humanities, urban studies, and cultural heritage research.
 
 ## Contents
