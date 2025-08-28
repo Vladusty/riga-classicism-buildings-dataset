@@ -1,5 +1,11 @@
-Carto map Klasicisma ēkas Rīgā (in Latvian), author – Vladislavs Babaņins:
+Carto map "Klasicisma arhitektūra Rīgā" (in Latvian), author – Vladislavs Babaņins:
 https://pinea.app.carto.com/map/933470c5-dbad-4aa3-8f17-20b4b0031517
 
-Google Maps map "Klasicisms Rīgā" (in Latvian), author – Vladislavs Babaņins:
-https://www.google.com/maps/d/u/0/edit?mid=15ZzU-ejYha_YVDzr6dwUGU6qxtECSDA&ll=56.951195462081955%2C24.10579249079291&z=14
+Google Maps map "Klasicisma arhitektūra Rīgā" (in Latvian), author – Vladislavs Babaņins:
+https://www.google.com/maps/d/viewer?mid=15ZzU-ejYha_YVDzr6dwUGU6qxtECSDA&ll=56.95366350000007%2C24.12338049999999&z=14
+
+Google Maps map "Neoclassical architecture in Riga" (in English), author – Vladislavs Babaņins:
+https://www.google.com/maps/d/viewer?mid=1dZ7PkO7Yd2P3p2wjTbgm0h4WTdIi3jI&ll=56.9501417%2C24.1022316&z=16
+
+Google Maps map "Классицизм в архитектуре Риги" (in Russian), author – Vladislavs Babaņins:
+https://www.google.com/maps/d/viewer?mid=1-AkVKIYdEaQMHFkIbhg9IDEw3GVE7zw&ll=56.957159339820116%2C24.112094887421968&z=14
